@@ -25,6 +25,12 @@ This is a simple React Native app that displays a random quote fetched from the 
 
 ## Screenshots
 
+<p>
+<img src = 'assets/app-imgs/quote-home.png' height='400'>
+<img src = 'assets/app-imgs/new-liked-quote.png' height='400'>
+<img src = 'assets/app-imgs/saved-liked-quotes.png' height='400'>
+</p>
+
 ## Installation
 
 To run this app locally, follow the steps below:
