@@ -1,4 +1,4 @@
-# Quote App
+# myQuote App
 
 This is a simple React Native app that displays a random quote fetched from the FavQs API. The user can like quotes, view liked quotes, copy the quote to the clipboard, and search for the author's name on Google. The app supports navigation and local storage using AsyncStorage for saving liked quotes.
 
